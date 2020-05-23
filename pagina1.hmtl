@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<!--
+	-- Projeto Interdisciplinar Aplicado ao Curso de Tecnologia em desenvolvimento de Sistemas--
+	-- Universidade Anhanguera - UNIDERP--
+	-- Cássio José e Silva --
+	-- RA: 3458199408 --
+-->
+<html>
+	<head>
+		<title>Prointer I</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header" class="alt">
+				<div class="inner">
+					<h1>Sistemas Operacionais</h1>
+					<p>Uma breve história</p>
+				</div>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Banner -->
+					<section id="intro" class="main">
+						<h2>Tecnologia em Análise e Desenvolvimento de Sistemas</h2>
+						<h3> Cássio José e Silva</h3>
+						<p> Um Sistema Operacional é composto de hardware e software, o hardware é a parte física do computador, componentes como a CPU, processador, memória, dispositivos  como, teclado, mouse, monitor, etc. Enquanto a parte que compõe o software são os programas instalados e que executam tarefas específicas.
+Pode parecer estranho começar pelo conjunto, mas para o bom entendimento deste projeto é importante que o leitor, seja ele leigo ou não, tenha ao final desta leitura um olhar global sobre o que acontece desde o “START” até a conclusão de tarefas corriqueiras que necessitam o uso dos sistemas operacionais.
+Iniciemos então a compreensão do que é um sistema operacional, qual a sua funcionalidade, aplicações, seus diferentes tipos e as vantagens e desvantagens no uso convencional e dos modelos atuais e modernos do dia-a-dia.
+O primeiro ambiente de desktop foi criado pela Xerox, comercializado juntamente com o Xerox Alto nos anos 70. O Alto era considerado um computador de mesa corporativo pela Xerox; acabou falhando no mercado por conta do marketing pobre e alto preço. Através do Lisa a Apple introduziu o ambiente de desktop em um computador pessoal com um preço aceitável, mas também acabou falhando no mercado.
+Com a popularização da internet na década de 90, com o surgimento de novos browsers ou navegadores — Internet Explorer, Netscape, Mozilla Firefox, Google Chrome, Opera, Lynx — e o aumento do número de usuários, navegadores da internet.
+A Internet discada deu lugar à Banda Larga e até à conexão no seu próprio celular, com a rede 4G (e agora 5G). Ao invés de uma ferramenta de difícil acesso e ainda crescendo, a Internet virou praticamente uma necessidade diária, seja no dia a dia das empresas ou na casa de um usuário que busca entretenimento ou faz pesquisas para o dever de casa.
+O compartilhamento de arquivos em sites P2P como o Kazaa surgiu para destacar uma faceta multimídia da Internet. Veio a era das redes sociais, para reunir amigos e fazer os novos contatos, com Orkut, MySpace, Twitter, Facebook, Instragram e etc. Os simples ICQ e MSN deram lugar ao Skype e ferramentas que permitem fazer até ligações para telefones comuns.
+Cresceu o número de provedores, o comércio online se estabeleceu, o mercado de jogos apostou no online e agradou, há centenas de redes de conteúdo multimídia usando tanto streaming como buffer para entreterem os internautas… Hoje, a Internet é um mundo de grandes possibilidades. E não há dúvida de que o futuro ainda reserva mais novidades.</p>
+						<ul class="actions">
+							<li><a href="index.html" class="button big">Página principal</a></li>
+						</ul>
+					</section>
+
+					<!-- Footer -->
+					<section class="container">
+					 <footer id="footer">
+					  	<div class="footer">
+							<li><a href="pagina1.html" <span class="button">Sistemas Operacionais </span></a></li>
+							<li><a href="pagina2.html" <span class="button">Administração de Sistemas </span></a></li>
+							<li><a href="pagina3.html" <span class="button">Organização de Computadores </span></a></li>
+							<li><a href="pagina4.html" <span class="button">Computação na Nuvem</span></a></li>
+					 	</div>
+					 </footer>
+				</section>			
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
