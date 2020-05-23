@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<!--
+	-- Projeto Interdisciplinar Aplicado ao Curso de Tecnologia em desenvolvimento de Sistemas--
+	-- Universidade Anhanguera - UNIDERP--
+	-- Cássio José e Silva --
+	-- RA: 3458199408 --
+-->
+<html>
+	<head>
+		<title>Prointer I</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header" class="alt">
+				<div class="inner">
+					<h1>Administração de Sistemas</h1>
+					<p>O Administrador de Sistemas</p>
+				</div>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Banner -->
+					<section id="intro" class="main">
+						<h2>Tecnologia em Análise e Desenvolvimento de Sistemas</h2>
+						<h3> Cássio José e Silva</h3>
+						<p><tab>O Administrador de sistemas e o profissional responsável por coordenar ambientes computacionais, implementando e documentando rotinas, elaborando projetos controlando os níveis de serviços de sistemas operacionais,  banco de dados e redes. O seu relacionamento é expansível a todas às áreas do negócio, principalmente as de Banco de dados, telecomunicações e TI.
+Sua formação em geral é baseada em uma graduação em sistemas de informação, podendo variar entre as áreas correlatas e pós-graduação em áreas mais especificas de atuação. Vale lembrar que é necessário também que o profissional se qualifique constantemente com certificações e atualizações de vários produtos como, Microsoft, Linux, ITIL.
+<tab>Um Administrador de sistemas operacionais ganha em média R$ 5.395,00 no mercado de trabalho brasileiro para uma jornada de trabalho de 42 horas semanais segundo dados oficiais do CAGED e tem um total de 3160 salários.
+A faixa salarial do administrador de sistemas CBO 2123-15 fica entre R$ 3.932,00 e R$15.345,17, sendo que R$4.924,51 é a média do piso salarial 2020 de acordos, convenções e dissídios de profissionais com carteira assinada no regime de CLT de todo Brasil.
+O perfil mais recorrente é o profissional de 29 anos, ensino superior incompleto, do sexo masculino que trabalha 44h semanais em empresas do segmento de desenvolvimento de programas para computadores e softwares em geral, e a maio ocorrência destas vagas está em São Paulo-SP.
+
+</p>
+						<ul class="actions">
+							<li><a href="index.html" class="button big">Página principal</a></li>
+						</ul>
+					</section>
+
+					<!-- Footer -->
+					<section class="container">
+					 <footer id="footer">
+					  	<div class="footer">
+							<li><a href="pagina1.html" <span class="button">Sistemas Operacionais </span></a></li>
+							<li><a href="pagina2.html" <span class="button">Administração de Sistemas </span></a></li>
+							<li><a href="pagina3.html" <span class="button">Organização de Computadores </span></a></li>
+							<li><a href="pagina4.html" <span class="button">Computação na Nuvem</span></a></li>
+					 	</div>
+					 </footer>
+				</section>			
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
